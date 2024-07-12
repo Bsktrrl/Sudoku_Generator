@@ -3,4 +3,4 @@
 ## Project Description
 
 
-<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/SudokuGenerator/Top.jpg" width="100%"/><br>
+<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/SudokuGenerator/Top.jpg" width="80%"/><br>
